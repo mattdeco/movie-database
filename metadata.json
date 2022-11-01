@@ -1,0 +1,6 @@
+{
+  "name": "jhom-movie-db",
+  "identifier": "com.peacock.app.jhommoviedb",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

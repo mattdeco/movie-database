@@ -1,0 +1,7 @@
+{
+  "name": "com.peacock.app.jhommoviedb",
+  "description": "jhom-movie-db",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.2.0"
+  }
+}
